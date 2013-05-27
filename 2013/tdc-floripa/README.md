@@ -1,3 +1,7 @@
+Link para apresentação: [http://fdaciuk.github.io/talks/2013/tdc-floripa/](http://fdaciuk.github.io/talks/2013/tdc-floripa/)
+
+---
+
 # Links HTML5:
 
 ## KinectJS
