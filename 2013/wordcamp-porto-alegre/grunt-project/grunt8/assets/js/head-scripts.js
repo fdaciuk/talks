@@ -1,0 +1,1 @@
+/*! project_name - v1.0.0 - 2013-07-07 */var Modernizr=window.Modernizr;

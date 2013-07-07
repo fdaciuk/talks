@@ -1,0 +1,1 @@
+!function(a,b,c){var d=function(){function a(){b(2,3)}function b(a,b){console.log(a+b)}return{init:a}}();d.init()}(window,document);
