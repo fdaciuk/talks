@@ -1,35 +1,37 @@
-Link para apresentação: [http://fdaciuk.github.io/talks/2013/tdc-floripa/](http://fdaciuk.github.io/talks/2013/tdc-floripa/)
+Link para apresentação: [http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/](http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/)
 
 ---
 
-# Links HTML5:
+# Ferramentas Silimares ao GruntJS:
 
-## KinectJS
+## Minificação CSS e JS
 
-[Alguns Exemplos do Kinect JS](http://www.html5canvastutorials.com/labs/html5-canvas-modify-curves-with-anchor-points-using-kineticjs/)
+[Minify](http://code.google.com/p/minify/) - Concatenar e minificar CSS e JS
+
+## Lint
+
+[JSHint](http://www.jshint.com/) - Detectar problemas e verificar se o código JS está cumprindo algumas convenções de codificação.
+
+## TDD/BDD
+
+[Jasmine](http://pivotal.github.io/jasmine/)
+
+[QUnit](http://qunitjs.com/) - TDD Javascript
+
+## Compilação de pré-processadores para CSS
+
+[SASS](http://sass-lang.com/) -Usando Ruby
+
+[LESS](http://lesscss.org/) - Usando NodeJS ou um __arquivo JS\*__ no seu site/app.  
+*_É uma cilada, Bino._
+
+[Stylus](http://learnboost.github.io/stylus/) - Usando [NodeJS](https://github.com/LearnBoost/stylus/blob/master/docs/executable.md)
+
+[CodeKit (Mac)](http://incident57.com/codekit/)
+
+[Compass.app](http://compass.handlino.com/)
+
+[Mixture](http://mixture.io/)
 
 
-## Canvas:
-
-1. [Wormz](http://html5-pro.com/wormz/)
-* [Rasgar paninho](http://codepen.io/stuffit/pen/KrAwx)
-
-
-## WebGL:
-
-1. [Simulação de água](http://madebyevan.com/webgl-water/)
-* [Filtros (Estilo Photoshop)](http://evanw.github.io/webgl-filter/)
-* [Jogo de Zumbis (Medo)](http://www.theywilleatyou.com/)
-* [Várias coisas em WebGL](http://threejs.org/)
-* [Cabeça com WebGL](http://alteredqualia.com/three/examples/webgl_materials_skin.html)
-
-
-## Camera:
-[Tri Me](http://scott.j38.net/files/gallery/2013/interactive/trime/)
-
-
-## Mais experimentos: 
-
-1. [Chrome Experiments](http://www.chromeexperiments.com/)
-* [Mozilla Labs](https://developer.mozilla.org/pt-BR/demos/?menu)
 
