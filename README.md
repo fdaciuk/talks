@@ -1,8 +1,8 @@
 # Minhas palestras
 
-## Próximas:
+## 2013
 
-### WordCamp Porto Alegre
+### [WordCamp Porto Alegre](https://github.com/fdaciuk/talks/tree/master/2013/wordcamp-porto-alegre)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/images/wordcamp-2013.png)
 
@@ -18,10 +18,7 @@ __Endereço:__ Rua Comendador Manuel Pereira, 249
 Bairro Centro – Porto Alegre – RS  
 CEP: 90030-030
 
-
 ---
-
-## 2013
 
 ### [The Developer's Conference - Florianópolis](https://github.com/fdaciuk/talks/tree/master/2013/tdc-floripa)
 
