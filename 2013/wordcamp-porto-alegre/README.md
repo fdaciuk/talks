@@ -2,7 +2,7 @@ Link para apresentação: [http://fdaciuk.github.io/talks/2013/wordcamp-porto-al
 
 ---
 
-# Ferramentas Silimares ao GruntJS:
+# Ferramentas Similares ao GruntJS:
 
 ## Minificação CSS e JS
 
@@ -23,7 +23,7 @@ Link para apresentação: [http://fdaciuk.github.io/talks/2013/wordcamp-porto-al
 [SASS](http://sass-lang.com/) -Usando Ruby
 
 [LESS](http://lesscss.org/) - Usando NodeJS ou um __arquivo JS\*__ no seu site/app.  
-*_É uma cilada, Bino._
+_* É uma cilada, Bino._
 
 [Stylus](http://learnboost.github.io/stylus/) - Usando [NodeJS](https://github.com/LearnBoost/stylus/blob/master/docs/executable.md)
 
