@@ -31,7 +31,8 @@ _* É uma cilada, Bino._
 
 [Compass.app](http://compass.handlino.com/)
 
-[Mixture](http://mixture.io/)
+[Mixture](http://mixture.io/)  
+_PS.: Esse deve ter sido criado por um carioca._
 
 
 
