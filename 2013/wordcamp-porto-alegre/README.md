@@ -1,5 +1,9 @@
 Link para apresentação: [http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/](http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/)
 
+Artigo [GruntJS - Por onde começar?](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
+
+Modelo de Gruntfile.js e package.json que costumo usar no WordPress (esse arquivo está em constante evolução, sempre atualizado): [link](https://gist.github.com/fdaciuk/5266715)
+
 ---
 
 # Ferramentas Similares ao GruntJS:
