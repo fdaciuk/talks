@@ -1,10 +1,34 @@
 # Minhas palestras
 
+## Próximas
+
+### [Front in Floripa](https://github.com/fdaciuk/talks/tree/master/2013/front-in-floripa)
+
+![image](https://raw.github.com/fdaciuk/talks/master/assets/images/front-in-floripa-2013.jpg)
+
+__Palestra:__ Git e Github: Dicas e Truques (Link da palestra em breve)
+
+__Site:__ [http://frontinfloripa.com.br/](http://frontinfloripa.com.br/)
+
+__Data:__ 22/11
+
+__Horário:__ 10h20
+
+__Local:__ SENAI - CTAI
+
+__Endereço:__ Rodovia SC-401, 3730 - 
+Saco Grande - Florianópolis, SC
+(Próximo ao Floripa Shopping)
+
+---
+
 ## 2013
 
 ### [WordCamp Porto Alegre](https://github.com/fdaciuk/talks/tree/master/2013/wordcamp-porto-alegre)
 
-![image](https://raw.github.com/fdaciuk/talks/master/images/wordcamp-2013.png)
+![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-2013.png)
+
+__Palestra:__ [Automatizando tarefas no WordPress com GruntJS](http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/#/start)
 
 __Site:__ [http://2013.portoalegre.wordcamp.org](http://2013.portoalegre.wordcamp.org/)
 
@@ -23,6 +47,8 @@ CEP: 90030-030
 ### [The Developer's Conference - Florianópolis](https://github.com/fdaciuk/talks/tree/master/2013/tdc-floripa)
 
 ![image](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/163299_478011988925851_367011638_n.png)
+
+__Palestra:__ [Vai HTML5 aí?](http://fdaciuk.github.io/talks/2013/tdc-floripa/#/start)
 
 __Site:__ [http://www.thedevelopersconference.com.br](http://www.thedevelopersconference.com.br/tdc/2013/florianopolis/trilha-web-university#programacao)
 
