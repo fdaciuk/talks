@@ -16,9 +16,9 @@ __Horário:__ 10h20
 
 __Local:__ SENAI - CTAI
 
-__Endereço:__ Rodovia SC-401, 3730 - 
-Saco Grande - Florianópolis, SC
-(Próximo ao Floripa Shopping)
+__Endereço:__ Rodovia SC-401, 3730  
+Saco Grande - Florianópolis, SC  
+(Próximo ao Floripa Shopping)  
 
 ---
 

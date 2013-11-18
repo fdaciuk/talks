@@ -1,1 +1,1 @@
-Link para apresentação: [em breve)
+Link para apresentação: (em breve)
