@@ -1,6 +1,6 @@
 # Minhas palestras
 
-## Próximas
+## 2013
 
 ### [Front in Floripa](https://github.com/fdaciuk/talks/tree/master/2013/front-in-floripa)
 
@@ -16,13 +16,11 @@ __Horário:__ 10h20
 
 __Local:__ SENAI - CTAI
 
-__Endereço:__ Rodovia SC-401, 3730  
-Saco Grande - Florianópolis, SC  
-(Próximo ao Floripa Shopping)  
+__Endereço:__ Rodovia SC-401, 3730
+Saco Grande - Florianópolis, SC
+(Próximo ao Floripa Shopping)
 
 ---
-
-## 2013
 
 ### [WordCamp Porto Alegre](https://github.com/fdaciuk/talks/tree/master/2013/wordcamp-porto-alegre)
 
@@ -36,10 +34,10 @@ __Data:__ 13/07
 
 __Horário:__ 14h
 
-__Local:__ FTEC Faculdades 
+__Local:__ FTEC Faculdades
 
-__Endereço:__ Rua Comendador Manuel Pereira, 249  
-Bairro Centro – Porto Alegre – RS  
+__Endereço:__ Rua Comendador Manuel Pereira, 249
+Bairro Centro – Porto Alegre – RS
 CEP: 90030-030
 
 ---
@@ -58,6 +56,6 @@ __Horário:__ 17h50
 
 __Local:__ Oceania Convention Center
 
-__Endereço:__ Rua do Marisco, 550  
-CEP: 88058-090  
+__Endereço:__ Rua do Marisco, 550
+CEP: 88058-090
 Praia dos Ingleses - Florianópolis - SC
