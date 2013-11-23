@@ -6,7 +6,7 @@
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/front-in-floripa-2013.jpg)
 
-__Palestra:__ Git e Github: Dicas e Truques ([](https://docs.google.com/presentation/d/16mJAG0oP4-sdMbClBVciJZtSUv0La2VnrQS5qDeF6zI/edit?usp=sharing))
+__Palestra:__ [Git e Github: Dicas e Truques](https://docs.google.com/presentation/d/16mJAG0oP4-sdMbClBVciJZtSUv0La2VnrQS5qDeF6zI/edit?usp=sharing)
 
 __Site:__ [http://frontinfloripa.com.br/](http://frontinfloripa.com.br/)
 
