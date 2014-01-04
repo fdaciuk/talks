@@ -26,7 +26,7 @@ Saco Grande - Florianópolis, SC
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-2013.png)
 
-__Palestra:__ [Automatizando tarefas no WordPress com GruntJS](http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/#/start)
+__Palestra:__ [Automatizando tarefas no WordPress com GruntJS](https://rawgithub.com/fdaciuk/talks/master/2013/wordcamp-porto-alegre/index.html#/start)
 
 __Site:__ [http://2013.portoalegre.wordcamp.org](http://2013.portoalegre.wordcamp.org/)
 
@@ -46,7 +46,7 @@ CEP: 90030-030
 
 ![image](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/163299_478011988925851_367011638_n.png)
 
-__Palestra:__ [Vai HTML5 aí?](http://fdaciuk.github.io/talks/2013/tdc-floripa/#/start)
+__Palestra:__ [Vai HTML5 aí?](https://rawgithub.com/fdaciuk/talks/master/2013/tdc-floripa/index.html#/start)
 
 __Site:__ [http://www.thedevelopersconference.com.br](http://www.thedevelopersconference.com.br/tdc/2013/florianopolis/trilha-web-university#programacao)
 

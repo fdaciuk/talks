@@ -1,4 +1,4 @@
-Link para apresentação: [http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/](http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/)
+Link para apresentação: [](https://rawgithub.com/fdaciuk/talks/master/2013/wordcamp-porto-alegre/index.html#/start)
 
 Artigo [GruntJS - Por onde começar?](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
@@ -26,7 +26,7 @@ Modelo de Gruntfile.js e package.json que costumo usar no WordPress (esse arquiv
 
 [SASS](http://sass-lang.com/) -Usando Ruby
 
-[LESS](http://lesscss.org/) - Usando NodeJS ou um __arquivo JS\*__ no seu site/app.  
+[LESS](http://lesscss.org/) - Usando NodeJS ou um __arquivo JS\*__ no seu site/app.
 _* É uma cilada, Bino._
 
 [Stylus](http://learnboost.github.io/stylus/) - Usando [NodeJS](https://github.com/LearnBoost/stylus/blob/master/docs/executable.md)
@@ -35,7 +35,7 @@ _* É uma cilada, Bino._
 
 [Compass.app](http://compass.handlino.com/)
 
-[Mixture](http://mixture.io/)  
+[Mixture](http://mixture.io/)
 _PS.: Esse deve ter sido criado por um carioca._
 
 
