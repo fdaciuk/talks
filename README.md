@@ -4,7 +4,7 @@
 
 ### [II Joinville Software Meetup](http://www.meetup.com/Joinville-Software-Meetup/events/162369292/)
 
-__Palestra:__ [Melhorando seu Workflow em um Gole]()
+__Palestra:__ [Melhorando seu Workflow em um Gole](https://docs.google.com/presentation/d/1lgvw4kLxeEORUubqSnR8FUFri0zV04fqeXRdSVTA-ww/edit?usp=sharing)
 
 __Data:__ 06/03
 
