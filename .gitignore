@@ -1,2 +1,7 @@
 .DS_Store
 arquivos-fonte/*
+2014/II-software-meetup-joinville/gulp-tasks/gulp-compass/node_modules/*
+2014/II-software-meetup-joinville/gulp-tasks/gulp-minify-css/node_modules/*
+2014/II-software-meetup-joinville/gulp-tasks/gulp-plumber/node_modules/*
+2014/II-software-meetup-joinville/gulp-tasks/gulp-watch/node_modules/*
+2014/II-software-meetup-joinville/gulp-tasks/hello-gulp/node_modules/*

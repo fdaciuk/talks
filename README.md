@@ -1,5 +1,22 @@
 # Minhas palestras
 
+## 2014
+
+### [II Joinville Software Meetup](http://www.meetup.com/Joinville-Software-Meetup/events/162369292/)
+
+__Palestra:__ [Melhorando seu Workflow em um Gole]()
+
+__Data:__ 06/03
+
+__Horário:__ 19h30
+
+__Local:__ Softville
+
+__Endereço:__ Rua Otto Boehm, 48 -
+América, Joinville - SC, CEP: 89201-700
+
+---
+
 ## 2013
 
 ### [Front in Floripa](https://github.com/fdaciuk/talks/tree/master/2013/front-in-floripa)
