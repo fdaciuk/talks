@@ -2,6 +2,24 @@
 
 ## 2014
 
+### [WordCamp Belo Horizonte](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-belo-horizonte)
+
+![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-bh.jpg)
+
+__Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
+
+__Site:__ [http://2014.belohorizonte.wordcamp.org/](http://2014.belohorizonte.wordcamp.org/)
+
+__Data:__ 17/05
+
+__Horário:__ 16h40
+
+__Local:__ UNIBH Estoril
+
+__Endereço:__ Av. Prof. Mário Werneck, 1685 – Estoril – Belo Horizonte – MG.
+
+----
+
 ### [II Joinville Software Meetup](http://www.meetup.com/Joinville-Software-Meetup/events/162369292/)
 
 __Palestra:__ [Melhorando seu Workflow em um Gole](https://docs.google.com/presentation/d/1lgvw4kLxeEORUubqSnR8FUFri0zV04fqeXRdSVTA-ww/edit?usp=sharing)
@@ -15,7 +33,7 @@ __Local:__ Softville
 __Endereço:__ Rua Otto Boehm, 48 -
 América, Joinville - SC, CEP: 89201-700
 
----
+----
 
 ## 2013
 
@@ -37,7 +55,7 @@ __Endereço:__ Rodovia SC-401, 3730
 Saco Grande - Florianópolis, SC
 (Próximo ao Floripa Shopping)
 
----
+----
 
 ### [WordCamp Porto Alegre](https://github.com/fdaciuk/talks/tree/master/2013/wordcamp-porto-alegre)
 
@@ -57,7 +75,7 @@ __Endereço:__ Rua Comendador Manuel Pereira, 249
 Bairro Centro – Porto Alegre – RS
 CEP: 90030-030
 
----
+----
 
 ### [The Developer's Conference - Florianópolis](https://github.com/fdaciuk/talks/tree/master/2013/tdc-floripa)
 
