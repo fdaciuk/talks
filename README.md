@@ -6,7 +6,7 @@
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-bh.jpg)
 
-__Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
+__Palestra:__ [Um Gole de Otimização no WordPress](https://docs.google.com/presentation/d/1-J8IomiCFn33wWT_7Ep7hY_2dR-WvFJ2jcYm2RUeSJ0/edit?usp=sharing)
 
 __Site:__ [http://2014.belohorizonte.wordcamp.org/](http://2014.belohorizonte.wordcamp.org/)
 
