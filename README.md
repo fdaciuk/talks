@@ -1,12 +1,32 @@
 # Minhas palestras
 
+## Próximas:
+
+### [WordCamp São Paulo](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-sao-paulo)
+
+![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-sao-paulo-2014.jpg)
+
+__Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
+
+__Site:__ [http://2014.saopaulo.wordcamp.org/](http://2014.saopaulo.wordcamp.org/)
+
+__Data:__ 18/10
+
+__Horário:__ 09h40
+
+__Local:__ PUC Consolação
+
+__Endereço:__ Rua Marquẽs de Paranaguá, 111 - Região Central
+
+----
+
 ## 2014
 
 ### [WordCamp Belo Horizonte](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-belo-horizonte)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-bh.jpg)
 
-__Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
+__Palestra:__ [Um Gole de Otimização no WordPress](https://drive.google.com/open?id=1-J8IomiCFn33wWT_7Ep7hY_2dR-WvFJ2jcYm2RUeSJ0&authuser=0)
 
 __Site:__ [http://2014.belohorizonte.wordcamp.org/](http://2014.belohorizonte.wordcamp.org/)
 
