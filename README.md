@@ -4,7 +4,7 @@
 
 ### [WordCamp São Paulo](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-sao-paulo)
 
-![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-sao-paulo-2014.jpg)
+![image](https://raw.github.com/fdaciuk/talks/master/assets/images/banner-wordcamp-sao-paulo-2014.jpg)
 
 __Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
 
