@@ -2,11 +2,15 @@
 
 ## Próximas:
 
+> :)
+
+## 2014
+
 ### [WordCamp São Paulo](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-sao-paulo)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/banner-wordcamp-sao-paulo-2014.jpg)
 
-__Palestra:__ [Um Gole de Otimização no WordPress - Link em breve :)]()
+__Palestra:__ [Um Gole de Otimização no WordPress](https://docs.google.com/presentation/d/1gmLbtccBQE2y4ILJ5b4qok9Ai4-DXEsC-311Y5epX2Y/edit?usp=sharing)
 
 __Site:__ [http://2014.saopaulo.wordcamp.org/](http://2014.saopaulo.wordcamp.org/)
 
@@ -19,8 +23,6 @@ __Local:__ PUC Consolação
 __Endereço:__ Rua Marquẽs de Paranaguá, 111 - Região Central
 
 ----
-
-## 2014
 
 ### [WordCamp Belo Horizonte](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-belo-horizonte)
 
