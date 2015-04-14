@@ -2,6 +2,34 @@
 
 ## Próximas:
 
+## 2015
+
+### [III Joinville WordPress Meetup]()
+
+__Palestra:__ [Agilizando a criação de temas com Odin - EM BREVE]()
+
+__Data:__ 16/04
+
+__Horário:__ 19h
+
+__Local:__ Softville
+
+__Endereço:__ Rua Otto Boehm, 48 - América, Joinville - SC, 89201-700
+
+----
+
+### [WordCamp Belo Horizonte]()
+
+__Palestra:__ [WordPress Real Time - EM BREVE]()
+
+__Data:__ 13/06
+
+__Horário:__ 14h30
+
+__Local:__ Campus Lagoinha da UniBH, no Teatro Ney Soares
+
+__Endereço:__ UniBH Antônio Carlos - Rua Diamantina, 567 - Lagoinha - Belo Horizonte  – MG
+
 > :)
 
 ## 2014
