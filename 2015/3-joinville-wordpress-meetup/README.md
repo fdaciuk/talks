@@ -1,7 +1,7 @@
-**Link para apresentação:**
+**Link para apresentação:**  
 [Agilizando a criação de temas com Odin Framework](https://docs.google.com/presentation/d/1ItgZ30-DlpJHyW1_rGbhwlopdsIbGo9u01dmOBAifHM/present?slide=id.p)  
 
-**Outros links úteis:**
+**Outros links úteis:**  
 [Repositório do Odin](https://github.com/wpbrasil/odin)  
 [Documentação completa do Odin](https://github.com/wpbrasil/odin/wiki)  
 
