@@ -4,20 +4,6 @@
 
 ## 2015
 
-### [III Joinville WordPress Meetup]()
-
-__Palestra:__ [Agilizando a criação de temas com Odin - EM BREVE]()
-
-__Data:__ 16/04
-
-__Horário:__ 19h
-
-__Local:__ Softville
-
-__Endereço:__ Rua Otto Boehm, 48 - América, Joinville - SC, 89201-700
-
-----
-
 ### [WordCamp Belo Horizonte]()
 
 __Palestra:__ [WordPress Real Time - EM BREVE]()
@@ -31,6 +17,22 @@ __Local:__ Campus Lagoinha da UniBH, no Teatro Ney Soares
 __Endereço:__ UniBH Antônio Carlos - Rua Diamantina, 567 - Lagoinha - Belo Horizonte  – MG
 
 > :)
+
+## 2015
+
+### [III Joinville WordPress Meetup](2015/3-joinville-wordpress-meetup/README.md)
+
+__Palestra:__ [Agilizando a criação de temas com Odin Framework](https://docs.google.com/presentation/d/1ItgZ30-DlpJHyW1_rGbhwlopdsIbGo9u01dmOBAifHM/present?slide=id.p)
+
+__Data:__ 16/04
+
+__Horário:__ 19h
+
+__Local:__ Softville
+
+__Endereço:__ Rua Otto Boehm, 48 - América, Joinville - SC, 89201-700
+
+----
 
 ## 2014
 
