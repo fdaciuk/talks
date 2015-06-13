@@ -2,11 +2,13 @@
 
 ## Próximas:
 
+> :)
+
 ## 2015
 
-### [WordCamp Belo Horizonte]()
+### [WordCamp Belo Horizonte](2015/wordcamp-belo-horizonte/README.md)
 
-__Palestra:__ [WordPress Real Time - EM BREVE]()
+__Palestra:__ [WordPress Real Time](https://docs.google.com/presentation/d/1ec-JpzrGDAfm6VM7RG8VZqTk-J34ZIEo70ZkLN2gYIg/present?slide=id.g324d53eb4_0_14)
 
 __Data:__ 13/06
 
@@ -16,9 +18,7 @@ __Local:__ Campus Lagoinha da UniBH, no Teatro Ney Soares
 
 __Endereço:__ UniBH Antônio Carlos - Rua Diamantina, 567 - Lagoinha - Belo Horizonte  – MG
 
-> :)
-
-## 2015
+----
 
 ### [III Joinville WordPress Meetup](2015/3-joinville-wordpress-meetup/README.md)
 
