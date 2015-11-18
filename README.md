@@ -2,7 +2,23 @@
 
 ## Próximas:
 
+## 2015
+
+### [Front in Floripa](http://frontinfloripa.com.br/)
+
+__Palestra:__ _Em breve_
+
+__Data:__ 05/12
+
+__Horário:__ 8h
+
+__Local:__ SENAI / CTAI
+
+__Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo ao Floripa Shopping)
+
 > :)
+
+---
 
 ## 2015
 
