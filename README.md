@@ -1,5 +1,7 @@
 # Minhas palestras
 
+> :)
+
 ## Próximas:
 
 ## 2015
@@ -15,8 +17,6 @@ __Horário:__ 8h
 __Local:__ SENAI / CTAI
 
 __Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo ao Floripa Shopping)
-
-> :)
 
 ---
 
