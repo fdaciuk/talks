@@ -6,6 +6,20 @@
 
 ## 2015
 
+### [WordCamp São Paulo](http://saopaulo.wordcamp.org/2015)
+
+__Palestra:__ WordPress Realtime
+
+__Data:__ 28/11
+
+__Horário:__ 8h
+
+__Local:__ PUC Consolação
+
+__Endereço:__ Rua Marquês de Paranaguá, 111
+
+---
+
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
 __Palestra:__ _Em breve_
