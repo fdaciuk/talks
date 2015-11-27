@@ -4,3 +4,5 @@ node_modules
 vendor
 2015/wordcamp-sao-paulo/wp/**/*
 !2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/content.php
+!2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/node_server
+2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/node_server/node_modules
