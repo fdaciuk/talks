@@ -1,0 +1,97 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "196ea895b1e32667297d1990a067cb6f",
+    "content-hash": "1efd2acf10ce4cc40842de353ad95f46",
+    "packages": [
+        {
+            "name": "ptrofimov/tinyredisclient",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ptrofimov/tinyredisclient.git",
+                "reference": "7b8d487afa41b74e30d1a68400d89c12d9b82b6f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ptrofimov/tinyredisclient/zipball/7b8d487afa41b74e30d1a68400d89c12d9b82b6f",
+                "reference": "7b8d487afa41b74e30d1a68400d89c12d9b82b6f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Petr Trofimov",
+                    "email": "petrofimov@yandex.ru",
+                    "homepage": "https://github.com/ptrofimov"
+                }
+            ],
+            "description": "The most lightweight Redis client written in PHP",
+            "homepage": "https://github.com/ptrofimov/tinyredisclient",
+            "keywords": [
+                "client",
+                "redis"
+            ],
+            "time": "2013-04-09 19:16:58"
+        },
+        {
+            "name": "rase/socket.io-emitter",
+            "version": "0.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rase-/socket.io-php-emitter.git",
+                "reference": "82e1f27f04c02cc88fc4d986fc17a799390e7986"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rase-/socket.io-php-emitter/zipball/82e1f27f04c02cc88fc4d986fc17a799390e7986",
+                "reference": "82e1f27f04c02cc88fc4d986fc17a799390e7986",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "ptrofimov/tinyredisclient": "1.1.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SocketIO\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "A PHP implementation of socket.io-emitter",
+            "homepage": "https://github.com/rase-/socket.io-php-emitter",
+            "keywords": [
+                "Socket.io",
+                "emit"
+            ],
+            "time": "2014-11-22 15:43:44"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
