@@ -6,7 +6,7 @@
 
 ## 2015
 
-### [WordCamp São Paulo](http://saopaulo.wordcamp.org/2015)
+### [WordCamp São Paulo](2015/wordcamp-sao-paulo)
 
 __Palestra:__ WordPress Realtime
 
@@ -36,7 +36,7 @@ __Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo 
 
 ## 2015
 
-### [WordCamp Belo Horizonte](2015/wordcamp-belo-horizonte/README.md)
+### [WordCamp Belo Horizonte](2015/wordcamp-belo-horizonte)
 
 __Palestra:__ [WordPress Real Time](https://docs.google.com/presentation/d/1ec-JpzrGDAfm6VM7RG8VZqTk-J34ZIEo70ZkLN2gYIg/present?slide=id.g324d53eb4_0_14)
 
