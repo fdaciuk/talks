@@ -6,7 +6,7 @@
 
 ## Instalação do NodeJS
 
-Siga as instruções [nesse site] conforme o seu sistema operacional.
+Siga as instruções [nesse site](https://nodejs.org/en/) conforme o seu sistema operacional.
 
 ## Instalação do Redis Server
 
