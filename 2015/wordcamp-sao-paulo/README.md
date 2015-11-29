@@ -2,7 +2,7 @@
 
 **Link para o site:** http://saopaulo.wordcamp.org/2015
 
-**Link para a apresentação:** [WordPress Realtime - EM BREVE]()
+**Link para a apresentação:** [WordPress Realtime](https://docs.google.com/presentation/d/17M-jHlkAP5KPfQ4_Alck_wIsN2gK3dZNGfJR9Bi1L50/present)
 
 ## Instalação do NodeJS
 
