@@ -6,20 +6,6 @@
 
 ## 2015
 
-### [WordCamp São Paulo](2015/wordcamp-sao-paulo)
-
-__Palestra:__ [WordPress Realtime](https://docs.google.com/presentation/d/17M-jHlkAP5KPfQ4_Alck_wIsN2gK3dZNGfJR9Bi1L50/present)
-
-__Data:__ 28/11
-
-__Horário:__ 8h
-
-__Local:__ PUC Consolação
-
-__Endereço:__ Rua Marquês de Paranaguá, 111
-
----
-
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
 __Palestra:__ _Em breve_
@@ -36,6 +22,20 @@ __Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo 
 
 ## 2015
 
+### [WordCamp São Paulo](2015/wordcamp-sao-paulo)
+
+__Palestra:__ [WordPress Realtime](https://docs.google.com/presentation/d/17M-jHlkAP5KPfQ4_Alck_wIsN2gK3dZNGfJR9Bi1L50/present)
+
+__Data:__ 28/11
+
+__Horário:__ 8h
+
+__Local:__ PUC Consolação
+
+__Endereço:__ Rua Marquês de Paranaguá, 111
+
+---
+
 ### [WordCamp Belo Horizonte](2015/wordcamp-belo-horizonte)
 
 __Palestra:__ [WordPress Real Time](https://docs.google.com/presentation/d/1ec-JpzrGDAfm6VM7RG8VZqTk-J34ZIEo70ZkLN2gYIg/present?slide=id.g324d53eb4_0_14)
@@ -50,7 +50,7 @@ __Endereço:__ UniBH Antônio Carlos - Rua Diamantina, 567 - Lagoinha - Belo Hor
 
 ----
 
-### [III Joinville WordPress Meetup](2015/3-joinville-wordpress-meetup/README.md)
+### [III Joinville WordPress Meetup](2015/3-joinville-wordpress-meetup)
 
 __Palestra:__ [Agilizando a criação de temas com Odin Framework](https://docs.google.com/presentation/d/1ItgZ30-DlpJHyW1_rGbhwlopdsIbGo9u01dmOBAifHM/present?slide=id.p)
 
@@ -66,7 +66,7 @@ __Endereço:__ Rua Otto Boehm, 48 - América, Joinville - SC, 89201-700
 
 ## 2014
 
-### [WordCamp São Paulo](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-sao-paulo)
+### [WordCamp São Paulo](2014/wordcamp-sao-paulo)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/banner-wordcamp-sao-paulo-2014.jpg)
 
@@ -84,7 +84,7 @@ __Endereço:__ Rua Marquẽs de Paranaguá, 111 - Região Central
 
 ----
 
-### [WordCamp Belo Horizonte](https://github.com/fdaciuk/talks/tree/master/2014/wordcamp-belo-horizonte)
+### [WordCamp Belo Horizonte](2014/wordcamp-belo-horizonte)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-bh.jpg)
 
@@ -119,7 +119,7 @@ América, Joinville - SC, CEP: 89201-700
 
 ## 2013
 
-### [Front in Floripa](https://github.com/fdaciuk/talks/tree/master/2013/front-in-floripa)
+### [Front in Floripa](2013/front-in-floripa)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/front-in-floripa-2013.jpg)
 
@@ -139,7 +139,7 @@ Saco Grande - Florianópolis, SC
 
 ----
 
-### [WordCamp Porto Alegre](https://github.com/fdaciuk/talks/tree/master/2013/wordcamp-porto-alegre)
+### [WordCamp Porto Alegre](2013/wordcamp-porto-alegre)
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/wordcamp-2013.png)
 
@@ -159,7 +159,7 @@ CEP: 90030-030
 
 ----
 
-### [The Developer's Conference - Florianópolis](https://github.com/fdaciuk/talks/tree/master/2013/tdc-floripa)
+### [The Developer's Conference - Florianópolis](2013/tdc-floripa)
 
 __Palestra:__ [Vai HTML5 aí?](https://rawgithub.com/fdaciuk/talks/master/2013/tdc-floripa/index.html#/start)
 
