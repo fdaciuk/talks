@@ -8,7 +8,7 @@
 
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
-__Palestra:__ _Em breve_
+__Palestra:__ Javascript Secrets
 
 __Data:__ 05/12
 
