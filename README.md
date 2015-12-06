@@ -6,7 +6,10 @@
 
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
-__Palestra:__ [Javascript Secrets](https://docs.google.com/presentation/d/1yX33K4Ubiwsg46pqvpbFYVbvK86ZcHVRcomJwOwTIOI/present)
+__Palestra:__ Javascript Secrets
+
+- [Versão com Gifs](https://docs.google.com/presentation/d/1yX33K4Ubiwsg46pqvpbFYVbvK86ZcHVRcomJwOwTIOI/present)
+- [Slideshare](http://www.slideshare.net/fdaciuk/javascript-secrets-front-in-floripa-2015)
 
 __Data:__ 05/12
 
