@@ -8,6 +8,7 @@
 
 __Palestra:__ Javascript Secrets
 
+- [Vídeo](https://youtu.be/7Ur9zN2vMcs)
 - [Versão com Gifs](https://docs.google.com/presentation/d/1yX33K4Ubiwsg46pqvpbFYVbvK86ZcHVRcomJwOwTIOI/present)
 - [Slideshare](http://www.slideshare.net/fdaciuk/javascript-secrets-front-in-floripa-2015)
 
