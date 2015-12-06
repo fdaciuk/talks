@@ -2,13 +2,11 @@
 
 > :)
 
-## Próximas:
-
 ## 2015
 
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
-__Palestra:__ Javascript Secrets
+__Palestra:__ [Javascript Secrets](https://docs.google.com/presentation/d/1yX33K4Ubiwsg46pqvpbFYVbvK86ZcHVRcomJwOwTIOI/present)
 
 __Data:__ 05/12
 
@@ -19,8 +17,6 @@ __Local:__ SENAI / CTAI
 __Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo ao Floripa Shopping)
 
 ---
-
-## 2015
 
 ### [WordCamp São Paulo](2015/wordcamp-sao-paulo)
 
