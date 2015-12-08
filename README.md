@@ -24,7 +24,10 @@ __Endereço:__ Rodovia SC-401, 3730 Saco Grande - Florianópolis - SC (Próximo 
 
 ### [WordCamp São Paulo](2015/wordcamp-sao-paulo)
 
-__Palestra:__ [WordPress Realtime](https://docs.google.com/presentation/d/17M-jHlkAP5KPfQ4_Alck_wIsN2gK3dZNGfJR9Bi1L50/present)
+__Palestra:__ WordPress Realtime
+
+- [Versão com Gifs](https://docs.google.com/presentation/d/17M-jHlkAP5KPfQ4_Alck_wIsN2gK3dZNGfJR9Bi1L50/present)
+- [Slideshare](http://www.slideshare.net/fdaciuk/wordpress-realtime-wordcamp-so-paulo-2015)
 
 __Data:__ 28/11
 
@@ -70,7 +73,11 @@ __Endereço:__ Rua Otto Boehm, 48 - América, Joinville - SC, 89201-700
 
 ![image](https://raw.github.com/fdaciuk/talks/master/assets/images/banner-wordcamp-sao-paulo-2014.jpg)
 
-__Palestra:__ [Um Gole de Otimização no WordPress](https://docs.google.com/presentation/d/1gmLbtccBQE2y4ILJ5b4qok9Ai4-DXEsC-311Y5epX2Y/edit?usp=sharing)
+__Palestra:__ Um Gole de Otimização no WordPress
+
+- [Video](http://wordpress.tv/2014/12/03/fernando-daciuk-um-gole-de-otimizacao-no-wordpress/)
+- [Versão com Gifs](https://docs.google.com/presentation/d/1gmLbtccBQE2y4ILJ5b4qok9Ai4-DXEsC-311Y5epX2Y/present)
+- [Slideshare](http://www.slideshare.net/fdaciuk/um-gole-de-otimizacao-no-wordpress-wordcamp-sao-paulo-2014)
 
 __Site:__ [http://2014.saopaulo.wordcamp.org/](http://2014.saopaulo.wordcamp.org/)
 
