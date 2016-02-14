@@ -1,6 +1,20 @@
 # Minhas palestras
 
-> :)
+## 2016
+
+### [Femug Joinville](http://www.meetup.com/femug-jlle/events/228461515/)
+
+__Palestra:__ Designing applications with Redux
+
+- [Slideshare - EM BREVE]()
+
+__Data:__ 20/02
+
+__Horário:__ 15h
+
+__Local:__ ContaAzul
+
+__Endereço:__ Rua Dona Francisca, 8300 - Distrito Industrial, Joinville
 
 ## 2015
 
