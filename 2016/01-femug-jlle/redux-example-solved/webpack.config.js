@@ -5,7 +5,7 @@ const webpack = require('webpack')
 module.exports = {
   entry: path.resolve('.', 'src', 'main.js'),
   output: {
-    path: path.resolve(__dirname, 'public'),
+    path: path.resolve('.', 'public'),
     filename: 'bundle.js'
   },
   devtool: 'source-map',
