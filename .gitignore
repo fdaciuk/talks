@@ -1,8 +1,10 @@
 .DS_Store
 arquivos-fonte/*
 node_modules
+npm-debug.log
 vendor
 2015/wordcamp-sao-paulo/wp/**/*
 !2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/content.php
 !2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/node_server
 2015/wordcamp-sao-paulo/wp/wp-content/themes/twentyfifteen/node_server/node_modules
+2016/01-femug-jlle/redux-example*/public
