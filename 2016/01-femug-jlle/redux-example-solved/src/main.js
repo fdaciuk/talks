@@ -16,21 +16,12 @@ const $addTodo = $('[data-js="add-todo"]')
 const $inputTodo = $('[data-js="input-todo"]')
 const $todoList = $('[data-js="todo-list"]')
 
-const render = () => {
-  const newState = store.getState()
-  $counter.innerText = newState.counter
-  console.log(newState)
-}
-
 const todoItems = () => {
   const $lis = store.getState().todos.map((todo, index) => {
     const $li = document.createElement('li')
     $li.innerText = todo.text
     $li.id = todo.id
-    return $li
-  })
 
-  $lis.forEach(($li, index) => {
     on($li, 'click', () => {
       store.dispatch(toggleTodo(+$li.id))
       const thisTodo = store.getState().todos[index]
@@ -38,22 +29,13 @@ const todoItems = () => {
         ? 'line-through'
         : 'none'
     })
+    return $li
   })
 
   return $lis
 }
 
-const unsubscribe = store.subscribe(render)
-
-on($decrement, 'click', () => {
-  store.dispatch({ type: 'DECREMENT' })
-})
-
-on($increment, 'click', () => {
-  store.dispatch({ type: 'INCREMENT' })
-})
-
-on($addTodo, 'click', () => {
+const addNewTodo = () => {
   store.dispatch(addTodo($inputTodo.value))
 
   $todoList.innerHTML = ''
@@ -62,13 +44,23 @@ on($addTodo, 'click', () => {
   })
   $inputTodo.value = ''
   $inputTodo.focus()
-})
+}
+
+on($decrement, 'click', () => store.dispatch({ type: 'DECREMENT' }))
+on($increment, 'click', () => store.dispatch({ type: 'INCREMENT' }))
+on($addTodo, 'click', addNewTodo)
 
 on($inputTodo, 'keyup', (e) => {
-  const keyCode = e.keyCode || e.which
+  const keyPressed = e.keyCode || e.which
   const ENTER = 13
-  if(keyCode === ENTER)
-    $addTodo.click()
+  if(keyPressed === ENTER) addNewTodo()
 })
 
+const render = () => {
+  const newState = store.getState()
+  $counter.innerText = newState.counter
+  console.log(newState)
+}
+
+const unsubscribe = store.subscribe(render)
 render()
