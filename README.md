@@ -8,8 +8,6 @@
 
 __Palestra:__ Designing applications with Redux
 
-- [Slideshare - EM BREVE]()
-
 __Data:__ 20/02
 
 __Horário:__ 15h
