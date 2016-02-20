@@ -8,6 +8,8 @@
 
 __Palestra:__ Designing applications with Redux
 
+- [Versão com Gifs](https://docs.google.com/presentation/d/10AZ_sJZZmw3BeaZ54lyzfYLp51YiCHA4_o7X8XSNDV4/present)
+
 __Data:__ 20/02
 
 __Horário:__ 15h
