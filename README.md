@@ -13,6 +13,7 @@
 __Palestra:__ Designing applications with Redux
 
 - [Versão com Gifs](https://docs.google.com/presentation/d/10AZ_sJZZmw3BeaZ54lyzfYLp51YiCHA4_o7X8XSNDV4/present)
+- [Slideshare](http://www.slideshare.net/fdaciuk/designing-applications-with-redux)
 
 __Data:__ 20/02
 
