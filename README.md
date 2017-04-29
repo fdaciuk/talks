@@ -1,6 +1,10 @@
 # Minhas palestras
 
 ## Próximas:
+k
+> :)
+
+---
 
 ## 2017
 
@@ -8,7 +12,7 @@
 
 __Palestra:__ JS Concepts behind React.js
 
-- Link dos slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1ZOqfpdjD3er7fcMrjV4sqa70BHITMPhFqyUHZfdaULo/present)
 
 __Data:__ 29/04
 
@@ -17,8 +21,6 @@ __Horário:__ 18h
 __Local:__ Online (hangout)
 
 __Endereço:__ https://www.youtube.com/watch?v=s7jKFOubOaY
-
-> :)
 
 ---
 
