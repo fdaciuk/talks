@@ -2,6 +2,22 @@
 
 ## Próximas:
 
+## 2017
+
+### Meetup CT
+
+__Palestra:__ JS Concepts behind React.js
+
+- Link dos slides da palestra (em breve)
+
+__Data:__ 29/04
+
+__Horário:__ 18h
+
+__Local:__ Online (hangout)
+
+__Endereço:__ https://www.youtube.com/watch?v=s7jKFOubOaY
+
 > :)
 
 ---
