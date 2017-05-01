@@ -1,7 +1,7 @@
 # Minhas palestras
 
 ## Próximas:
-k
+
 > :)
 
 ---
