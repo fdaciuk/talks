@@ -4,7 +4,7 @@
 
 ## 2017
 
-### Meetup CT
+### [Meetup CT](https://ctgroups.herokuapp.com/)
 
 __Palestra:__ CSS Workflow Nowadays
 
@@ -44,7 +44,7 @@ __Endereço:__ Avenida Nações Unidas, 18801 - Marginal Pinheiros, a 6 min da E
 
 ## 2017
 
-### Meetup CT
+### [Meetup CT](https://ctgroups.herokuapp.com/)
 
 __Palestra:__ JS Concepts behind React.js
 
