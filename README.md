@@ -4,6 +4,22 @@
 
 ## 2017
 
+### Meetup CT
+
+__Palestra:__ CSS Workflow Nowadays
+
+- [Slides da palestra (em breve)]
+
+__Data:__ 24/06
+
+__Horário:__ 20h
+
+__Local:__ Online (hangout)
+
+__Endereço:__ https://www.youtube.com/watch?v=5Z_RUWMtVTo
+
+---
+
 ### [Meetup React SP](https://www.meetup.com/ReactJS-SP/events/240424358/)
 
 __Palestra:__ Context API
@@ -17,6 +33,8 @@ __Horário:__ 19h
 __Local:__ Giganti
 
 __Endereço:__ Avenida Nações Unidas, 18801 - Marginal Pinheiros, a 6 min da Estação Santo Amaro da CPTM/Terminal - Santo Amaro - São Paulo ([mapa](https://maps.google.com/maps?f=q&hl=en&q=Avenida+Na%C3%A7%C3%B5es+Unidas%2C+18801%2C+S%C3%A3o+Paulo+%2C+br))
+
+---
 
 > :)
 
