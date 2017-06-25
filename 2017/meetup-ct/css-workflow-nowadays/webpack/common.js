@@ -57,9 +57,19 @@ module.exports = {
   },
 
   cssLoader: {
-    test: /\.css$/,
+    test: /\.(css|styl)$/,
     include: paths.src,
-    use: ['style-loader', 'css-loader']
+    use: [
+      'style-loader',
+      {
+        loader: 'css-loader',
+        options: {
+          modules: true,
+          localIdentName: '[path][name]__[local]--[hash:base64:5]'
+        }
+      },
+      'stylus-loader'
+    ]
   },
 
   fileLoader: {
@@ -89,7 +99,8 @@ module.exports = {
     alias: {
       src: paths.src,
       components: join(paths.src, 'components'),
-      utils: join(paths.src, 'utils')
+      utils: join(paths.src, 'utils'),
+      css: join(paths.src, 'css')
     }
   }
 }

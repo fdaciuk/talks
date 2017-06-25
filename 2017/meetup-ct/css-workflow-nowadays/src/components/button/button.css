@@ -1,0 +1,6 @@
+@import '~css/variables.styl'
+
+.button
+  background: $color-yellow
+  color: black
+

@@ -54,6 +54,9 @@
     "preact-compat": "^3.14.3",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "styled-components": "^2.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
   }
 }

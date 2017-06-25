@@ -19,7 +19,7 @@ module.exports = {
     }),
 
     new ExtractTextPlugin({
-      filename: '[name]-[hash].css'
+      filename: '[name]-[contenthash].css'
     }),
 
     new webpack.DefinePlugin({
