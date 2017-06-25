@@ -4,22 +4,6 @@
 
 ## 2017
 
-### [Meetup CT](https://github.com/training-center/training-center.github.io)
-
-__Palestra:__ CSS Workflow Nowadays
-
-- [Slides da palestra (em breve)]
-
-__Data:__ 24/06
-
-__Horário:__ 20h
-
-__Local:__ Online (hangout)
-
-__Endereço:__ https://www.youtube.com/watch?v=5Z_RUWMtVTo
-
----
-
 ### [Meetup React SP](https://www.meetup.com/ReactJS-SP/events/240424358/)
 
 __Palestra:__ Context API
@@ -43,6 +27,23 @@ __Endereço:__ Avenida Nações Unidas, 18801 - Marginal Pinheiros, a 6 min da E
 ## Passadas:
 
 ## 2017
+
+### [Meetup CT](https://github.com/training-center/training-center.github.io)
+
+__Palestra:__ CSS Workflow Nowadays
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1OSYF3KDFwov6mdTJiNjabvfCr8YFgLDLTbsqCJNQPOs/present)
+- [Códigos usados na talk](2017/meetup-ct/css-workflow-nowadays)
+
+__Data:__ 24/06
+
+__Horário:__ 20h
+
+__Local:__ Online (hangout)
+
+__Endereço:__ https://www.youtube.com/watch?v=5Z_RUWMtVTo
+
+---
 
 ### [Meetup CT](https://github.com/training-center/training-center.github.io)
 
