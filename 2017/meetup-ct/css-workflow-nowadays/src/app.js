@@ -10,7 +10,7 @@ const H1 = styled.h1`
 
 const App = () => (
   <div>
-    <H1 className={`${style.button} button`}>React App!</H1>
+    <H1 color='red'>React App!</H1>
   </div>
 )
 
