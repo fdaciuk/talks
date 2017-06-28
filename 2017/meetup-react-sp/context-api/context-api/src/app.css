@@ -1,0 +1,80 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header,
+.sidebar,
+.main-content,
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  background: black;
+  min-height: 70px;
+  max-height: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  height: 100%;
+}
+
+.sidebar {
+  background: #ccc;
+  width: 20%;
+}
+
+.main-content {
+  background: #f0f0f0;
+  width: 80%;
+}
+
+.footer {
+  background: black;
+  min-height: 70px;
+  max-height: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+}
+
+.buttons {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.buttons button {
+  border: 0;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 20px;
+  height: 50px;
+  padding: 0 20px;
+}
