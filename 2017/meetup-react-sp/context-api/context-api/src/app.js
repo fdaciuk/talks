@@ -1,10 +1,14 @@
 import React from 'react'
-import Context1 from './context1'
+// import Context from './context1'
+// import Context from './context2'
+// import Context from './context3'
+// import Context from './context4'
+import Context from './context5'
 
-import './app.css'
+import './style.css'
 
 const App = () => (
-  <Context1 />
+  <Context />
 )
 
 export default App
