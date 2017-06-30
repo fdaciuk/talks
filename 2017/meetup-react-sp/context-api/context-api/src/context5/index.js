@@ -23,7 +23,7 @@ class AppContainer extends PureComponent {
     return (
       <div className='main'>
         <Header changeColor={this.changeColor} />
-        <Content changeColor={this.changeColor} />
+        <Content />
         <Footer changeColor={this.changeColor} />
       </div>
     )
