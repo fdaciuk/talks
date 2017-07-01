@@ -34,8 +34,6 @@ const connect = (mapStateToProps, mapDispatchToProps) => (Wrapper) => {
           {...stateToProps}
           {...dispatchToProps}
           {...this.props}
-          color={this.store.getState().color}
-          changeColor={this.changeColor}
         />
       )
     }
