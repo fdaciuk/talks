@@ -4,11 +4,20 @@
 
 ## 2017
 
+> :)
+
+---
+
+## Passadas:
+
+## 2017
+
 ### [Meetup React SP](https://www.meetup.com/ReactJS-SP/events/240424358/)
 
 __Palestra:__ Context API
 
-- [Slides da palestra(em breve)]
+- [Slides da palestra](https://docs.google.com/presentation/d/1tWpoP0xDQDzzBFXgN8H1RrQe9-TJQG4_xL2eNAO1Pj8/present)
+- [Códigos de exemplo](2017/meetup-react-sp/context-api/context-api)
 
 __Data:__ 30/06
 
@@ -19,14 +28,6 @@ __Local:__ Giganti
 __Endereço:__ Avenida Nações Unidas, 18801 - Marginal Pinheiros, a 6 min da Estação Santo Amaro da CPTM/Terminal - Santo Amaro - São Paulo ([mapa](https://maps.google.com/maps?f=q&hl=en&q=Avenida+Na%C3%A7%C3%B5es+Unidas%2C+18801%2C+S%C3%A3o+Paulo+%2C+br))
 
 ---
-
-> :)
-
----
-
-## Passadas:
-
-## 2017
 
 ### [Meetup CT](https://github.com/training-center/training-center.github.io)
 
