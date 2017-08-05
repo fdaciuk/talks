@@ -4,6 +4,22 @@
 
 ## 2017
 
+### [techTalks()](https://www.facebook.com/groups/951287741673582/)
+
+__Palestra:__ Getting Started with React.js
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1c1TcpMmOnnIra2rkN71Jfs_7NgAQogvJUyyhFw0RUDA/present)
+
+__Data:__ 05/08
+
+__Horário:__ 14h
+
+__Local:__ Impact Hub Curitiba
+
+__Endereço:__ Rua Fernando Amaro, 60 - A Fábrika, 80045-080 Curitiba, Brazil ([mapa](https://www.google.com.br/maps/place/R.+Fernando+Amaro,+60+-+Alto+da+Rua+XV,+Curitiba+-+PR,+80045-080/@-25.4283784,-49.2591909,17z/data=!4m5!3m4!1s0x94dce4473b6b056b:0x2b1e1e94c53782ba!8m2!3d-25.4281023!4d-49.2579785?hl=en))
+
+---
+
 > :)
 
 ---
