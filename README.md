@@ -4,6 +4,22 @@
 
 ## 2017
 
+### [Meetup Jaraguá do Sul - JS Frameworks](https://www.meetup.com/tijaraguadosul/events/241909178/)
+
+__Palestra:__ Getting Started with React.js
+
+- Slides da palestra (em breve)
+
+__Data:__ 02/09
+
+__Horário:__ 13h30
+
+__Local:__ Spin Exponential Business - Blue Chip - Centro Empresarial
+
+__Endereço:__ R. João Planincheck, 1990 - Jaraguá Esquerdo, Jaraguá do Sul ([mapa](https://goo.gl/maps/iQ8jGX445Wz))
+
+---
+
 ### [ReactConf Brazil](http://reactconfbr.com.br/)
 
 __Palestra:__ The magic world of tests with Jest
