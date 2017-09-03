@@ -32,7 +32,7 @@ __Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP - Brasil ([m
 
 __Palestra:__ Getting Started with React.js
 
-- Slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1E0fAKASddFrMwaW_DfC5PULB4k7nH2-AnbaWSlR0oAI/present)
 
 __Data:__ 02/09
 
