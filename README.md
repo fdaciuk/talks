@@ -16,7 +16,39 @@ __Horário:__ 8h
 
 __Local:__ Teatro Augusta
 
-__Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP - Brasil ([mapa](https://goo.gl/maps/CYJBVGHz3Nk))
+__Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP ([mapa](https://goo.gl/maps/CYJBVGHz3Nk))
+
+---
+
+### [DevFest Nordeste](http://devfestne.com.br/)
+
+__Palestra:__ The secrets of functions
+
+- Slides da palestra (em breve)
+
+__Data:__ 21/10
+
+__Horário:__ 8h
+
+__Local:__ SENAI CIMATEC
+
+__Endereço:__ Av. Orlando Gomes, 1845 - Piatã, Salvador / BA ([mapa](https://goo.gl/maps/U2HzNWoX8HD2))
+
+---
+
+### [DevFest Paraná (Maringá)](https://devfestpr.org/)
+
+__Palestra:__ The secrets of functions
+
+- Slides da palestra (em breve)
+
+__Data:__ 11/11
+
+__Horário:__ 8h
+
+__Local:__ SEBRAE Maringá
+
+__Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](https://goo.gl/maps/Dd6kcfy43362))
 
 ---
 
