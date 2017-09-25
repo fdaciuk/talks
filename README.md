@@ -20,7 +20,7 @@ __Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP ([mapa](http
 
 ---
 
-### [DevFest Nordeste](http://devfestne.com.br/)
+### [DevFest Nordeste (Salvador)](http://devfestne.com.br/)
 
 __Palestra:__ The secrets of functions
 
