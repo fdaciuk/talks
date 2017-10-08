@@ -8,7 +8,7 @@
 
 __Palestra:__ The magic world of tests with Jest
 
-- Slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1TjU1HLQaCuNU5-aj4UikcDZMy73JuEg134bHl551SmY/present)
 
 __Data:__ 07/10
 
