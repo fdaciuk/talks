@@ -4,22 +4,6 @@
 
 ## 2017
 
-### [ReactConf Brazil](http://reactconfbr.com.br/)
-
-__Palestra:__ The magic world of tests with Jest
-
-- [Slides da palestra](https://docs.google.com/presentation/d/1TjU1HLQaCuNU5-aj4UikcDZMy73JuEg134bHl551SmY/present)
-
-__Data:__ 07/10
-
-__Horário:__ 8h
-
-__Local:__ Teatro Augusta
-
-__Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP ([mapa](https://goo.gl/maps/CYJBVGHz3Nk))
-
----
-
 ### [DevFest Nordeste (Salvador)](http://devfestne.com.br/)
 
 __Palestra:__ The secrets of functions
@@ -59,6 +43,22 @@ __Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](htt
 ## Passadas:
 
 ## 2017
+
+### [ReactConf Brazil](http://reactconfbr.com.br/)
+
+__Palestra:__ The magic world of tests with Jest
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1TjU1HLQaCuNU5-aj4UikcDZMy73JuEg134bHl551SmY/present)
+
+__Data:__ 07/10
+
+__Horário:__ 8h
+
+__Local:__ Teatro Augusta
+
+__Endereço:__ Rua Augusta, 943 - Cerqueira César, São Paulo / SP ([mapa](https://goo.gl/maps/CYJBVGHz3Nk))
+
+---
 
 ### [Meetup Jaraguá do Sul - JS Frameworks](https://www.meetup.com/tijaraguadosul/events/241909178/)
 
