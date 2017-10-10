@@ -4,7 +4,7 @@
 
 ## 2017
 
-### [DevFest Nordeste (Salvador)](http://devfestne.com.br/)
+### [DevFest Nordeste (Salvador - Bahia)](http://devfestne.com.br/)
 
 __Palestra:__ The secrets of functions
 
