@@ -4,22 +4,6 @@
 
 ## 2017
 
-### [DevFest Nordeste (Salvador - Bahia)](http://devfestne.com.br/)
-
-__Palestra:__ The secrets of functions
-
-- Slides da palestra (em breve)
-
-__Data:__ 21/10
-
-__Horário:__ 8h
-
-__Local:__ SENAI CIMATEC
-
-__Endereço:__ Av. Orlando Gomes, 1845 - Piatã, Salvador / BA ([mapa](https://goo.gl/maps/U2HzNWoX8HD2))
-
----
-
 ### [DevFest Paraná (Maringá)](https://devfestpr.org/)
 
 __Palestra:__ The secrets of functions
@@ -43,6 +27,22 @@ __Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](htt
 ## Passadas:
 
 ## 2017
+
+### [DevFest Nordeste (Salvador - Bahia)](http://devfestne.com.br/)
+
+__Palestra:__ The secrets of functions
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1lbKRiZIMpSHdopuNEAoDxahuvEIyQC3QXbi0SuS2jxM/present)
+
+__Data:__ 21/10
+
+__Horário:__ 8h
+
+__Local:__ SENAI CIMATEC
+
+__Endereço:__ Av. Orlando Gomes, 1845 - Piatã, Salvador / BA ([mapa](https://goo.gl/maps/U2HzNWoX8HD2))
+
+---
 
 ### [ReactConf Brazil](http://reactconfbr.com.br/)
 
