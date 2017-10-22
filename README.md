@@ -20,6 +20,22 @@ __Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](htt
 
 ---
 
+### [???]()
+
+__Palestra:__ ???
+
+- Slides da palestra (em breve)
+
+__Data:__ ??/12
+
+__Horário:__ ??
+
+__Local:__ ??
+
+__Endereço:__  ?? ([mapa]())
+
+---
+
 > :)
 
 ---
