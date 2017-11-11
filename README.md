@@ -8,7 +8,7 @@
 
 __Palestra:__ The secrets of functions
 
-- Slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1ar3-h141FwF2W3gvkScm8h99NEYCj5tF0sXbRyNeEpw/present)
 
 __Data:__ 11/11
 
