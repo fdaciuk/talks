@@ -4,22 +4,6 @@
 
 ## 2017
 
-### [DevFest Paraná (Maringá)](https://devfestpr.org/)
-
-__Palestra:__ The secrets of functions
-
-- [Slides da palestra](https://docs.google.com/presentation/d/1ar3-h141FwF2W3gvkScm8h99NEYCj5tF0sXbRyNeEpw/present)
-
-__Data:__ 11/11
-
-__Horário:__ 8h
-
-__Local:__ SEBRAE Maringá
-
-__Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](https://goo.gl/maps/Dd6kcfy43362))
-
----
-
 ### [??]()
 
 __Palestra:__ ??
@@ -43,6 +27,22 @@ __Endereço:__  ?? ([mapa]())
 ## Passadas:
 
 ## 2017
+
+### [DevFest Paraná (Maringá)](https://devfestpr.org/)
+
+__Palestra:__ The secrets of functions
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1ar3-h141FwF2W3gvkScm8h99NEYCj5tF0sXbRyNeEpw/present)
+
+__Data:__ 11/11
+
+__Horário:__ 8h
+
+__Local:__ SEBRAE Maringá
+
+__Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](https://goo.gl/maps/Dd6kcfy43362))
+
+---
 
 ### [DevFest Nordeste (Salvador - Bahia)](http://devfestne.com.br/)
 
