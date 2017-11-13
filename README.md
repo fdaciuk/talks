@@ -4,19 +4,19 @@
 
 ## 2017
 
-### [??]()
+### [Front in Floripa](http://frontinfloripa.com.br/)
 
-__Palestra:__ ??
+__Palestra:__ The front-end world: now what?
 
 - Slides da palestra (em breve)
 
-__Data:__ ??/12
+__Data:__ 02/12
 
-__Horário:__ ??
+__Horário:__ 08h
 
-__Local:__ ??
+__Local:__ Hotel Maria do Mar
 
-__Endereço:__  ?? ([mapa]())
+__Endereço:__  Rodovia João Paulo, 2285 - Bairro João Paulo - Florianópolis / SC - Brasil ([mapa](https://goo.gl/maps/ty539BmfZM82))
 
 ---
 
