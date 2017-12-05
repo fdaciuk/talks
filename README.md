@@ -2,13 +2,21 @@
 
 ## Próximas:
 
+## 2018
+
+> :)
+
+---
+
+## Passadas:
+
 ## 2017
 
 ### [Front in Floripa](http://frontinfloripa.com.br/)
 
 __Palestra:__ The front-end world: now what?
 
-- Slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1iM67tHXpHrYyWZDI4oN8-GT11sYG98yHu0J0A36sNuo/present)
 
 __Data:__ 02/12
 
@@ -19,14 +27,6 @@ __Local:__ Hotel Maria do Mar
 __Endereço:__  Rodovia João Paulo, 2285 - Bairro João Paulo - Florianópolis / SC - Brasil ([mapa](https://goo.gl/maps/ty539BmfZM82))
 
 ---
-
-> :)
-
----
-
-## Passadas:
-
-## 2017
 
 ### [DevFest Paraná (Maringá)](https://devfestpr.org/)
 
