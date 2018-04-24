@@ -10,23 +10,27 @@
 
 ## Passadas:
 
-## 2017
+## 2018
 
-### [Front in Floripa](http://frontinfloripa.com.br/)
+### [Meetup React CWB #12](https://www.meetup.com/ReactJS-CWB/events/249667806/)
 
-__Palestra:__ The front-end world: now what?
+__Palestra:__ Expressions
 
-- [Slides da palestra](https://docs.google.com/presentation/d/1iM67tHXpHrYyWZDI4oN8-GT11sYG98yHu0J0A36sNuo/present)
+- [Slides da palestra](https://docs.google.com/presentation/d/19cRDs9nU0jVGrIKjPV0oYHdQGRAdczpDs9PDlIY2FU4/present)
 
-__Data:__ 02/12
+__Data:__ 24/04
 
-__Horário:__ 08h
+__Horário:__ 19h
 
-__Local:__ Hotel Maria do Mar
+__Local:__ Pipefy
 
-__Endereço:__  Rodovia João Paulo, 2285 - Bairro João Paulo - Florianópolis / SC - Brasil ([mapa](https://goo.gl/maps/ty539BmfZM82))
+__Endereço:__  Av. João Gualberto, 1740, 3º andar - Juvevê - Curitiba/PR (Ao lado do Bradesco) ([mapa](https://goo.gl/maps/TmTqRCt4jkE2))
 
 ---
+
+## 2017
+
+
 
 ### [DevFest Paraná (Maringá)](https://devfestpr.org/)
 
