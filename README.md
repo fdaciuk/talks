@@ -4,6 +4,54 @@
 
 ## 2018
 
+### [#13 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/251780679/)
+
+__Palestra:__ History API
+
+- Slides da palestra (_Em breve_)
+
+__Data:__ 13/07
+
+__Horário:__ 19h
+
+__Local:__ Accenture Interactive
+
+__Endereço:__  Rua Gomes de Carvalho, 1510 2º andar · São Paulo ([mapa](https://goo.gl/maps/y3DK1UTY86N2))
+
+---
+
+### [Front in Sampa 2018](http://www.frontinsampa.com.br/)
+
+__Palestra:__ Immutable JavaScript
+
+- Slides da palestra (_Em breve_)
+
+__Data:__ 14/07
+
+__Horário:__ 09h
+
+__Local:__ Teatro Maksound Plaza
+
+__Endereço:__  Alameda Campinas, 150 - Jardim Paulista, São Paulo - SP ([mapa](https://goo.gl/maps/wMFEkqk7T3Q2))
+
+---
+
+### [Front in Vale](http://frontinvale.com.br/)
+
+__Palestra:__ History API
+
+- Slides da palestra (_Em breve_)
+
+__Data:__ 11/08
+
+__Horário:__ 08h
+
+__Local:__ Teatro Univap
+
+__Endereço:__  Praça Candido Dias Castejón, 116 - São José dos Campos - SP ([mapa](https://goo.gl/maps/UJgbkmZkUtm))
+
+---
+
 > :)
 
 ---
