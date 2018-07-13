@@ -4,22 +4,6 @@
 
 ## 2018
 
-### [Front in Sampa 2018](http://www.frontinsampa.com.br/)
-
-__Palestra:__ Immutable JavaScript
-
-- Slides da palestra (_Em breve_)
-
-__Data:__ 14/07
-
-__Horário:__ 09h
-
-__Local:__ Teatro Maksound Plaza
-
-__Endereço:__ Alameda Campinas, 150 - Jardim Paulista, São Paulo - SP ([mapa](https://goo.gl/maps/wMFEkqk7T3Q2))
-
----
-
 ### [Front in Vale](http://frontinvale.com.br/)
 
 __Palestra:__ History API
@@ -43,6 +27,22 @@ __Endereço:__ Praça Candido Dias Castejón, 116 - São José dos Campos - SP (
 ## Passadas:
 
 ## 2018
+
+### [Front in Sampa 2018](http://www.frontinsampa.com.br/)
+
+__Palestra:__ Immutable JavaScript
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1SJdAgUFU94Cp_v3hhuWikWInEwDZYXFzQy5ZLP-LcaE/present)
+
+__Data:__ 14/07
+
+__Horário:__ 09h
+
+__Local:__ Teatro Maksound Plaza
+
+__Endereço:__ Alameda Campinas, 150 - Jardim Paulista, São Paulo - SP ([mapa](https://goo.gl/maps/wMFEkqk7T3Q2))
+
+---
 
 ### [#13 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/251780679/)
 
