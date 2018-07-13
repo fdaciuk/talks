@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "start": "serve -s"
+    "start": "http-server -c-1",
+    "serve": "serve -s"
   },
   "devDependencies": {
+    "http-server": "^0.11.1",
     "serve": "^9.2.0"
   }
 }
