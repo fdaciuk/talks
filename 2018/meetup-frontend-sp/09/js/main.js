@@ -3,9 +3,9 @@
 
   const $h1 = doc.querySelector('h1')
   const $links = doc.querySelectorAll('a')
-  const initialTitle = $h1.textContent
+  // const initialTitle = $h1.textContent
 
-  history.replaceState({ title: initialTitle }, initialTitle)
+  // history.replaceState({ title: initialTitle }, initialTitle)
 
   $links.forEach(($link) => {
     $link.addEventListener('click', handleNavigation, false)
@@ -13,7 +13,7 @@
 
   win.onpopstate = function (e) {
     console.log(e.state)
-    render(e.state.title)
+    // render(e.state.title)
   }
 
   function handleNavigation (e) {
@@ -25,9 +25,9 @@
     render(state.title)
   }
 
-  function render (title) {
-    // update DOM
-    $h1.textContent = title
-    doc.title = `>> ${title}`
-  }
+  // function render (title) {
+  //   // update DOM
+  //   $h1.textContent = title
+  //   doc.title = `>> ${title}`
+  // }
 })(window, window.history, document)
