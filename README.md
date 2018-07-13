@@ -4,22 +4,6 @@
 
 ## 2018
 
-### [#13 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/251780679/)
-
-__Palestra:__ History API
-
-- Slides da palestra (_Em breve_)
-
-__Data:__ 13/07
-
-__Horário:__ 19h
-
-__Local:__ Accenture Interactive
-
-__Endereço:__  Rua Gomes de Carvalho, 1510 2º andar · São Paulo ([mapa](https://goo.gl/maps/y3DK1UTY86N2))
-
----
-
 ### [Front in Sampa 2018](http://www.frontinsampa.com.br/)
 
 __Palestra:__ Immutable JavaScript
@@ -32,7 +16,7 @@ __Horário:__ 09h
 
 __Local:__ Teatro Maksound Plaza
 
-__Endereço:__  Alameda Campinas, 150 - Jardim Paulista, São Paulo - SP ([mapa](https://goo.gl/maps/wMFEkqk7T3Q2))
+__Endereço:__ Alameda Campinas, 150 - Jardim Paulista, São Paulo - SP ([mapa](https://goo.gl/maps/wMFEkqk7T3Q2))
 
 ---
 
@@ -48,7 +32,7 @@ __Horário:__ 08h
 
 __Local:__ Teatro Univap
 
-__Endereço:__  Praça Candido Dias Castejón, 116 - São José dos Campos - SP ([mapa](https://goo.gl/maps/UJgbkmZkUtm))
+__Endereço:__ Praça Candido Dias Castejón, 116 - São José dos Campos - SP ([mapa](https://goo.gl/maps/UJgbkmZkUtm))
 
 ---
 
@@ -59,6 +43,22 @@ __Endereço:__  Praça Candido Dias Castejón, 116 - São José dos Campos - SP 
 ## Passadas:
 
 ## 2018
+
+### [#13 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/251780679/)
+
+__Palestra:__ History API
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1y-FTYqvXHSzNNpTGS9AWb52PkT8QVxUTZmUQN-oG8-U/present)
+
+__Data:__ 13/07
+
+__Horário:__ 19h
+
+__Local:__ Accenture Interactive
+
+__Endereço:__ Rua Gomes de Carvalho, 1510 2º andar · São Paulo ([mapa](https://goo.gl/maps/y3DK1UTY86N2))
+
+---
 
 ### [Meetup React CWB #12](https://www.meetup.com/ReactJS-CWB/events/249667806/)
 
@@ -72,7 +72,7 @@ __Horário:__ 19h
 
 __Local:__ Pipefy
 
-__Endereço:__  Av. João Gualberto, 1740, 3º andar - Juvevê - Curitiba/PR (Ao lado do Bradesco) ([mapa](https://goo.gl/maps/TmTqRCt4jkE2))
+__Endereço:__ Av. João Gualberto, 1740, 3º andar - Juvevê - Curitiba/PR (Ao lado do Bradesco) ([mapa](https://goo.gl/maps/TmTqRCt4jkE2))
 
 ---
 
@@ -92,7 +92,7 @@ __Horário:__ 8h
 
 __Local:__ SEBRAE Maringá
 
-__Endereço:__  Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](https://goo.gl/maps/Dd6kcfy43362))
+__Endereço:__ Av. Bento Munhos da Rocha Neto, 1116 - Maringá / PR ([mapa](https://goo.gl/maps/Dd6kcfy43362))
 
 ---
 
