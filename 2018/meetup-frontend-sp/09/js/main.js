@@ -25,9 +25,9 @@
     render(state.title)
   }
 
-  // function render (title) {
-  //   // update DOM
-  //   $h1.textContent = title
-  //   doc.title = `>> ${title}`
-  // }
+  function render (title) {
+    // update DOM
+    $h1.textContent = title
+    doc.title = `>> ${title}`
+  }
 })(window, window.history, document)
