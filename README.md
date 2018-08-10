@@ -4,11 +4,21 @@
 
 ## 2018
 
+---
+
+> :)
+
+---
+
+## Passadas:
+
+## 2018
+
 ### [Front in Vale](http://frontinvale.com.br/)
 
 __Palestra:__ History API
 
-- Slides da palestra (_Em breve_)
+- [Slides da palestra](https://docs.google.com/presentation/d/1mrS-rAe-i0FeKTYA85JxYW2dY77rdSqX1bmLm6TtCfU/present)
 
 __Data:__ 11/08
 
@@ -19,14 +29,6 @@ __Local:__ Teatro Univap
 __Endereço:__ Praça Candido Dias Castejón, 116 - São José dos Campos - SP ([mapa](https://goo.gl/maps/UJgbkmZkUtm))
 
 ---
-
-> :)
-
----
-
-## Passadas:
-
-## 2018
 
 ### [Front in Sampa 2018](http://www.frontinsampa.com.br/)
 
