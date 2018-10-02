@@ -4,8 +4,6 @@
 
 ## 2018
 
----
-
 ### [Meetup GDG Salvador](https://www.meetup.com/gdg-salvador/events/255154930/)
 
 __Palestra:__ The magic world of tests with Jest
