@@ -4,19 +4,19 @@
 
 ## 2018
 
-### [Meetup GDG Salvador](https://www.meetup.com/gdg-salvador/events/255154930/)
+### [React Conf Brasil](https://reactconfbr.com.br/)
 
-__Palestra:__ The magic world of tests with Jest
+__Palestra:__ The powers of SSR
 
-- [Slides da palestra](https://docs.google.com/presentation/d/1vNf17vkCb_7eh7wmt99gSFaJY_gRIVD2HnOQkK63qaE/present)
+- Slides da palestra (Em breve)
 
-__Data:__ 02/10
+__Data:__ 20/10
 
-__Horário:__ 20h
+__Horário:__ 8h
 
-__Local:__ Online
+__Local:__ Teatro Brigadeiro
 
-__Endereço:__ (Em breve)
+__Endereço:__ Av. Brigadeiro Luís Antônio, 884 - Bela Vista, São Paulo - SP ([mapa](https://goo.gl/maps/SGdM3Xh1q922))
 
 ---
 
@@ -27,6 +27,22 @@ __Endereço:__ (Em breve)
 ## Passadas:
 
 ## 2018
+
+### [Meetup GDG Salvador](https://www.meetup.com/gdg-salvador/events/255154930/)
+
+__Palestra:__ The magic world of tests with Jest
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1vNf17vkCb_7eh7wmt99gSFaJY_gRIVD2HnOQkK63qaE/present)
+
+__Data:__ 02/10
+
+__Horário:__ 20h
+
+__Local:__ online (hangout)
+
+__Endereço:__ https://www.youtube.com/watch?v=j0OFi6suU3U
+
+---
 
 ### [Front in Vale](http://frontinvale.com.br/)
 
