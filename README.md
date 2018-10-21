@@ -2,13 +2,19 @@
 
 ## Próximas:
 
+> :)
+
+---
+
+## Passadas:
+
 ## 2018
 
 ### [React Conf Brasil](https://reactconfbr.com.br/)
 
 __Palestra:__ The powers of SSR
 
-- Slides da palestra (Em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1lY5u-TeYDVdg4rfd5uWub2EYC8QHNqbvnbtYOIQg_qs/present)
 
 __Data:__ 20/10
 
@@ -19,14 +25,6 @@ __Local:__ Teatro Brigadeiro
 __Endereço:__ Av. Brigadeiro Luís Antônio, 884 - Bela Vista, São Paulo - SP ([mapa](https://goo.gl/maps/SGdM3Xh1q922))
 
 ---
-
-> :)
-
----
-
-## Passadas:
-
-## 2018
 
 ### [Meetup GDG Salvador](https://www.meetup.com/gdg-salvador/events/255154930/)
 
