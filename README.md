@@ -4,6 +4,22 @@
 
 > :)
 
+## 2019
+
+### [#24 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/262766784/)
+
+__Palestra:__ Vamos falar de estados?
+
+- Slides da palestra (Em breve)
+
+__Data:__ 12/07
+
+__Horário:__ 19h
+
+__Local:__ ZAP Imóveis
+
+__Endereço:__  R. Bela Cintra, 539 - Consolação, São Paulo - SP, 01415-000 ([mapa](https://goo.gl/maps/EkAGPPW9HxvAhk438))
+
 ---
 
 ## Passadas:
