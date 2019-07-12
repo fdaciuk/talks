@@ -10,7 +10,7 @@
 
 __Palestra:__ Vamos falar de estados?
 
-- Slides da palestra (Em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1SNedmQceLDtbTXAx-G32YiXSupQDbfaQnjltDl5ix6Y/present)
 
 __Data:__ 12/07
 
