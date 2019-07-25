@@ -6,7 +6,7 @@
 
 ### [CodeCon](https://codecon.dev/)
 
-__Palestra:__ JavaScript: Entendendo HOF
+__Palestra:__ JavaScript: Conhecendo HOF
 
 - Slides da palestra (em breve)
 
