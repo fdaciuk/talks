@@ -2,7 +2,27 @@
 
 ## Próximas:
 
+## 2019
+
+### [CodeCon](https://codecon.dev/)
+
+__Palestra:__ JavaScript: Entendendo HOF
+
+- Slides da palestra (em breve)
+
+__Data:__ 31/08
+
+__Horário:__ 08h
+
+__Local:__ Ágora Tech Park
+
+__Endereço:__  R. Dona Francisca, nº 8300 - Distrito Industrial - Joinville/SC ([mapa](https://goo.gl/maps/Y18SutqB2rEAmH4X7))
+
+---
+
 > :)
+
+## Passadas:
 
 ## 2019
 
@@ -21,8 +41,6 @@ __Local:__ ZAP Imóveis
 __Endereço:__  R. Bela Cintra, 539 - Consolação, São Paulo - SP, 01415-000 ([mapa](https://goo.gl/maps/EkAGPPW9HxvAhk438))
 
 ---
-
-## Passadas:
 
 ## 2018
 
