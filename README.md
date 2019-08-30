@@ -2,13 +2,17 @@
 
 ## Próximas:
 
+> :)
+
+## Passadas:
+
 ## 2019
 
 ### [CodeCon](https://codecon.dev/)
 
 __Palestra:__ JavaScript: Conhecendo HOF
 
-- Slides da palestra (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/1oAomX48FKXTYcs3CFUI03gIi4F1przQLQ4tlabKCKOw/present)
 
 __Data:__ 31/08
 
@@ -19,12 +23,6 @@ __Local:__ Ágora Tech Park
 __Endereço:__  R. Dona Francisca, nº 8300 - Distrito Industrial - Joinville/SC ([mapa](https://goo.gl/maps/Y18SutqB2rEAmH4X7))
 
 ---
-
-> :)
-
-## Passadas:
-
-## 2019
 
 ### [#24 Frontend SP Meetup - Edição Especial FrontendWeek](https://www.meetup.com/Frontend-Dev-SP-Meetup/events/262766784/)
 
