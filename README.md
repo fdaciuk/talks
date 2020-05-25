@@ -4,7 +4,26 @@
 
 > :)
 
+
 ## Passadas:
+
+## 2020
+
+### [QuarenTech IELUSC](http://quarentech.ielusc.br)
+
+__Palestra:__ Vamos falar de estados?
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1_nQZLfMKqJlkD6IZLUojb4QK6C9WqT6c7DrJDQkBrr4/present)
+
+__Data:__ 25/05
+
+__Horário:__ 19h
+
+__Local:__ Online
+
+__Endereço:__ https://www.youtube.com/watch?v=fUjiufAWcTA
+
+---
 
 ## 2019
 
