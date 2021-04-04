@@ -1,0 +1,18 @@
+{
+  "name": "codecon-2021-do-callback-ao-observable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node 01.js",
+    "dev": "nodemon 02.js",
+    "serve": "http-server -c1 ."
+  },
+  "dependencies": {
+    "rxjs": "6.6.7"
+  },
+  "devDependencies": {
+    "http-server": "0.12.3",
+    "nodemon": "2.0.7"
+  }
+}
