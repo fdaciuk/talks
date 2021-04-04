@@ -7,8 +7,10 @@ const numbersObservable = new Observable(observer => {
   observer.next(1)
   observer.next(2)
   observer.next(3)
-  observer.next(4)
-  observer.complete()
+  setTimeout(() => {
+    observer.next(4)
+    observer.complete()
+  }, 1000)
 })
 
 numbersObservable
