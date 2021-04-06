@@ -2,6 +2,22 @@
 
 ## Próximas:
 
+## 2021
+
+### [Codecon](https://codecon.dev)
+
+__Palestra:__ Do callback ao Observable com RxJS
+
+- Slides da palestra: (em breve)
+
+__Data:__ 22/04
+
+__Horário:__ 19h
+
+__Local:__ Online
+
+__Endereço:__ https://twitch.tv/pachicodes
+
 > :)
 
 
