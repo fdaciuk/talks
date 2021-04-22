@@ -3,9 +3,9 @@
 ### Links de referência:
 
 - [Documentação do RxJS](https://rxjs.dev/)
-- [Learn Rx](http://reactivex.io/learnrx/)
+- [ReactiveX: Learn Rx](http://reactivex.io/learnrx/)
 - [Learn RxJS](https://www.learnrxjs.io/)
-- [Build your own RxJS](https://egghead.io/lessons/rxjs-andre-staltz-presents-build-your-own-rxjs)
+- [Andre Staltz: Build your own RxJS](https://egghead.io/lessons/rxjs-andre-staltz-presents-build-your-own-rxjs)
 - [Slides "Everything is a stream"](http://slides.com/robwormald/everything-is-a-stream#/1)
 
 ### Ferramentas similares para trabalhar com Observables:
