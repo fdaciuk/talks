@@ -15,7 +15,7 @@
 - [Highland.js](https://caolan.github.io/highland/)
 - [Most.js](https://github.com/cujojs/most)
 
-### Ferramentas de _State management_ que usam Observables:
+### Ferramentas de _State Management_ que usam Observables:
 
 - [MobX](https://mobx.js.org/README.html)
 - [Concent.js](https://github.com/concentjs/concent)

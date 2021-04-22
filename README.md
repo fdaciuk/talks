@@ -2,13 +2,19 @@
 
 ## Próximas:
 
+> :)
+
+---
+
+## Passadas:
+
 ## 2021
 
 ### [Codecon](https://codecon.dev)
 
 __Palestra:__ Do callback ao Observable com RxJS
 
-- Slides da palestra: (em breve)
+- [Slides da palestra](https://docs.google.com/presentation/d/16jw4GXnVW1VdcyfIygk2EgUXi8OGiUtRDnDbgG8dYFQ/present)
 
 __Data:__ 22/04
 
@@ -18,10 +24,7 @@ __Local:__ Online
 
 __Endereço:__ https://twitch.tv/pachicodes
 
-> :)
-
-
-## Passadas:
+---
 
 ## 2020
 
