@@ -10,9 +10,11 @@
 
 ## 2021
 
-### [Codecon](https://codecon.dev)
+### [Codecon](2021/codecon-2021-do-callback-ao-observable)
 
 __Palestra:__ Do callback ao Observable com RxJS
+
+__Site:__ [https://codecon.dev](https://codecon.dev)
 
 - [Slides da palestra](https://docs.google.com/presentation/d/16jw4GXnVW1VdcyfIygk2EgUXi8OGiUtRDnDbgG8dYFQ/present)
 
