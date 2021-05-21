@@ -10,6 +10,22 @@
 
 ## 2021
 
+### Meetup Paraíba.js
+
+__Palestra:__ Lidando com valores opcionais no React.js com fp-ts
+
+- [Código mostrado na palestra](2021/functional-js-with-fp-ts/fp-ts-com-react)
+
+__Data:__ 20/05
+
+__Horário:__ 20h
+
+__Local:__ Online
+
+__Endereço:__ https://www.youtube.com/watch?v=kf0Ny1xsbBI
+
+---
+
 ### [Codecon](2021/codecon-2021-do-callback-ao-observable)
 
 __Palestra:__ Do callback ao Observable com RxJS
