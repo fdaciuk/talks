@@ -2,6 +2,24 @@
 
 ## Próximas:
 
+## 2025
+
+### Meetup Codecon
+
+__Palestra:__  Union Type no TS: o que ninguém te conta
+
+- [Slides da palestra](https://docs.google.com/presentation/d/1jiJydkQxAGrbcFDXe4BndQb5UKWKllfs7aFvE32xBfs/present)
+
+__Data:__ 25/02
+
+__Horário:__ 20h
+
+__Local:__ Hop'n Roll
+
+__Endereço:__ R. Mateus Leme, 1098 - Bom Retiro, Curitiba - PR, 80530-010
+
+---
+
 > :)
 
 ---
