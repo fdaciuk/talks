@@ -2,7 +2,13 @@
 
 ## Próximas:
 
-## 2025
+> :)
+
+---
+
+## Passadas:
+
+## 2025 
 
 ### Meetup Codecon
 
@@ -19,12 +25,6 @@ __Local:__ Hop'n Roll
 __Endereço:__ R. Mateus Leme, 1098 - Bom Retiro, Curitiba - PR, 80530-010
 
 ---
-
-> :)
-
----
-
-## Passadas:
 
 ## 2021
 
